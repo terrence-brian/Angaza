@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>KSL-D.42385362-807a-11ed-bac7-e4e749bb66ac.jpg</filename>
+	<path>C:\Users\Hp\RealTimeObjectDetection\Tensorflow\workspace\images\test\KSL-D.42385362-807a-11ed-bac7-e4e749bb66ac.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KSL-D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>174</ymin>
+			<xmax>259</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

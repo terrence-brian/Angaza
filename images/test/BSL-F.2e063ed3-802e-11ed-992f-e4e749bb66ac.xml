@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>BSL-F.2e063ed3-802e-11ed-992f-e4e749bb66ac.jpg</filename>
+	<path>C:\Users\Hp\RealTimeObjectDetection\Tensorflow\workspace\images\test\BSL-F.2e063ed3-802e-11ed-992f-e4e749bb66ac.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BSL-F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>219</ymin>
+			<xmax>335</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>
