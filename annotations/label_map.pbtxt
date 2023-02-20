@@ -1,0 +1,72 @@
+item { 
+	name:'BSL-A'
+	id:1
+}
+item { 
+	name:'BSL-B'
+	id:2
+}
+item { 
+	name:'BSL-C'
+	id:3
+}
+item { 
+	name:'BSL-D'
+	id:4
+}
+item { 
+	name:'BSL-E'
+	id:5
+}
+item { 
+	name:'BSL-F'
+	id:6
+}
+item { 
+	name:'BSL-G'
+	id:7
+}
+item { 
+	name:'BSL-H'
+	id:8
+}
+item { 
+	name:'BSL-I'
+	id:9
+}
+item { 
+	name:'KSL-A'
+	id:10
+}
+item { 
+	name:'KSL-B'
+	id:11
+}
+item { 
+	name:'KSL-C'
+	id:12
+}
+item { 
+	name:'KSL-D'
+	id:13
+}
+item { 
+	name:'KSL-E'
+	id:14
+}
+item { 
+	name:'KSL-F'
+	id:15
+}
+item { 
+	name:'KSL-G'
+	id:16
+}
+item { 
+	name:'KSL-H'
+	id:17
+}
+item { 
+	name:'KSL-I'
+	id:18
+}
